@@ -47,7 +47,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _ColorIntensity: 1
-    - _DisolveStrength: 2
+    - _DisolveStrength: 1
     - _Float: 0
     - _Metallic: 0.79
     - _NormalStrength: 40
